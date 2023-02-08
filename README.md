@@ -1,2 +1,2 @@
 # linker
-# Tenstando encurtador
+Testando encurtador
