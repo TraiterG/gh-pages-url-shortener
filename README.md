@@ -1,0 +1,2 @@
+# linker
+# Tenstando encurtador
